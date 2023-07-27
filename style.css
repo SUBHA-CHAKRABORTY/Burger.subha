@@ -1,0 +1,501 @@
+body{
+    overflow-x:hidden;
+    margin: 0px;
+    padding: 0px;
+
+
+}
+.container-fluid{
+    padding: 0px;
+}
+.row{
+    margin-left: 0px;
+margin-right: 0px;
+}
+
+/* navbar banner */
+#header-container{
+    padding: 0px;
+    height: 885px;
+    background-image: url(background\ banner.png);
+    padding:20px 57px ;
+}
+.navbar{
+    display: flex;
+    padding: 0px;
+}
+.delivery-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+.delivery-logo img{
+    margin-right:20px ;
+}
+.delivery-logo p{
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16.67px;
+}
+.navigation-bar UL{
+    display: flex;
+    list-style: none;
+    justify-content: end;
+    align-items: baseline;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20.83px;
+
+}
+.navigation-bar UL li{
+    /* padding-right: 10px; */
+    line-break: 1.2;
+
+}
+#home{
+    padding-right: 55px;
+}
+#menu{
+    padding-right: 55px;
+
+}
+#ourstory{
+    padding-right: 55px;
+    /* word-spacing: 5PX; */
+
+}
+span{
+    padding-left: 5px;
+}
+#contactus{
+
+}
+
+#first-banner-section-with-burger{
+    padding: 0px;
+}
+#banner1-row{
+
+}
+
+#left-side-part{
+    padding: 0px;
+}
+.burger-week-part{
+    padding-top: 180px;
+    padding-left: 18px;
+}
+.tag-line{
+    border: 2px solid #3d2514;
+    
+    width: 60%;
+    border-style: dashed;
+    height: 10%;
+    padding: 5px;
+    color: #3d2514;
+
+}
+.Burger-line{
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: 400;
+    font-size: 114.3px;
+    text-shadow: 2px 2px 0px white;
+    margin: 0px;
+    line-height: 1.1;
+    color: #3d2514;
+
+}
+.week-line{
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: 400;
+    text-shadow: 2px 2px 0px white;
+    font-size: 56.49px;
+    line-height: 0.7;
+    color: #3d2514;
+
+}
+
+
+
+#right-side-image{
+    padding: 0px;
+    position: relative;
+
+}
+#right-side-image img{
+   
+   
+}
+.burger-combo{
+    width: 100%;
+    height: 717px;
+}
+.red-round img{
+    width: 20%;
+    /* background-image: url(../image/Price.png); */
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 399px;
+    left: 135px;
+    /* height: 100px; */
+}
+
+
+/* populer burger sections */
+
+
+#populer-burger-section{
+    height: 460px;
+    padding: 0px;
+}
+#populer{
+    padding-top: 30px;
+    padding-left: 105px;
+    padding-right: 105px;
+}
+#populer-combo-image{
+    background-image: url(Burger\ Image.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height:400px;
+    margin-right: 30px;
+}
+#two-burger-card{
+    MARGIN-bottom: 30PX;
+}
+#right-card1-image{
+    background-image: url(Image.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 180px;
+    margin-bottom: 40px;
+
+}
+#right-card2-image{
+    background-image: url(Image2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 180px;
+
+}
+
+.try-it-today{
+    margin: 0px;
+    padding-top: 20px;
+    padding-left: 25PX;
+    font-size: 25px;
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+.most-populer-burger{
+    margin: 0px;
+    /* padding-top: 12px; */
+    font-size: 41.67PX;
+    padding-left: 25PX;
+
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    line-height: 0.7;
+}
+.MORE-FUN-MORE-TEAST{
+    margin: 0px;
+    /* padding-top: 12px; */
+    font-size: 41.67PX;
+    padding-left: 25PX;
+
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    line-height: 1.0;
+}
+
+
+/* card section 1 */
+
+#always-teasty-burger-card-section{
+
+}
+.heading-part{
+    text-align: center;
+}
+.always-heading{
+    width: 217PX;
+    font-family: 'Bebas Neue', sans-serif;
+    background-color: #ffc045;
+    margin: auto;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: 400;
+
+}
+.choose-and-enjoy{
+    font-size: 50px;
+    color: #3d2514;
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: 400;
+    padding-top: 40px;
+}
+.TASTY-BURGER-DETAILES{
+    font-size: 16.66px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    margin-bottom: 40px;
+
+
+}
+
+#burger-card-part{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#burger-card1 img{
+    width: 90%;
+    height: 300px;
+}
+#burger-card2 img{
+    width: 90%;
+    height: 300px;
+}#burger-card3 img{
+    width: 90%;
+    height: 300px;
+}
+.burger-name{
+    font-size: 37.5px;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #3d2514;
+
+}
+.burger-detailes{
+    font-size: 16.67px;
+    color: #3d2514;
+    
+
+}
+.order-now{
+    background-color: #bf2222;
+    color: white;
+    border: none;
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: 400;
+    width: 196px;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+
+/* discover section */
+
+
+.discover-upcoming-detailes-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 70px;
+    box-shadow: 10px 10px 10px 7px rgb(209, 207, 207);
+    /* border: 2px solid black; */
+}
+
+.left-box{
+    padding-left: 50px;
+}
+.discover{
+    font-size: 29.17px;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #3d2514;
+
+
+}
+.upcoming-event{
+    font-size: 41.67px;
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: 400;
+    color: #3d2514;
+
+}
+.upcoming-event-detailes{
+    font-size: 20.83px;
+    color: #3d2514;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+.right-image-box{
+
+}
+
+
+/* FORM SECTION */
+
+
+#form-section{
+    height: 630px;
+    width: 100%;
+    /* margin: 0px; */
+    background-image: url(BurgerBurger.png),url(image/Bottle.png),url(image/burger\ plate.png);
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-position-x: 0px,150px,1200px;
+    background-position-y:-100px,100px,100px;
+    
+}
+.background-form-section{
+    text-align: center;
+    /* height: 500px;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center; */
+}
+.form-part{
+    
+}
+.reservation{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 29.17PX;
+    color: #3d2514;
+
+}
+.BOOK-YOUR-TABLE{
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: 400;
+    font-size:50PX;
+    color: #3d2514;
+}
+.name-email-box{
+
+}
+#name{
+    width: 380PX;
+    height: 65PX;
+    margin-right: 10PX;
+    font-family: 'Bebas Neue', sans-serif;
+    margin-bottom: 20PX;
+    font-size: 20.83PX;
+    color: #3d2514;
+    padding-left: 20PX;
+}
+#email{
+    width: 380PX;
+    font-family: 'Bebas Neue', sans-serif;
+    padding-left: 20PX;
+    font-size: 20.83PX;
+    color: #3d2514;
+    height: 65PX;
+}
+#date{
+    width: 380PX;
+    font-family: 'Bebas Neue', sans-serif;
+    height: 65PX;
+    margin-right: 10PX;
+    padding-left: 20PX;
+    margin-bottom: 20PX;
+    color: #3d2514;
+    font-size: 20.83PX;
+
+
+    }
+#TIME{
+    width: 380PX;
+    padding-left: 20PX;
+    color: #3d2514;
+    font-size: 20.83PX;
+    
+    height: 65PX;
+    font-family: 'Bebas Neue', sans-serif;
+}
+#people{
+    width: 380PX;
+    height: 65PX;
+    font-family: 'Bebas Neue', sans-serif;
+    margin-right: 10PX;
+    padding-left: 20PX;
+    color: #3d2514;
+    font-size: 20.83PX;
+    
+
+}
+.find-a-table{
+    font-family: 'Alfa Slab One', cursive;
+
+    width: 380PX;
+    height: 65PX;
+    border: none;
+    background-color: #bf2222;
+    color: aliceblue;
+    
+    font-size: 20.83PX;
+}
+
+
+
+
+
+#footer-margin{
+    /* margin: 40px; */
+    /* text-align: center;
+     */
+     display: flex;
+     justify-content: center;
+}
+#footer-part{
+    height: 530px;
+    background-image: url(footer.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 90%;
+    
+}
+.mother-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.left{
+    padding-left: 40px;
+    padding-top: 60px;
+}
+.detailes{
+    color: white;
+    padding-top: 50px;
+}
+.right{
+    color: aliceblue;
+    margin-right: 120PX;
+    padding-top: 190PX;
+}
+.address{
+    /* padding-bottom: 10PX; */
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20.83PX;
+}
+.MAILID{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20.83PX;
+
+}
+.fa-sharp{
+    padding-right: 30PX;
+    font-size: 30PX;
+    /* padding-bottom: 10PX; */
+}
+.fa-solid{
+    padding-right: 30PX;
+    font-size: 30PX;
+
+}
+.BOTTOM-COLY-AND-LOGO{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 120px;
+    padding-left: 40px;
+    color: aliceblue;
+    margin-top: 160px;
+}
+.copyrights{
+    font-size: 16.67px;
+}
+.fa-brands{
+    padding-left: 10px;
+    font-size: 25px;
+}
